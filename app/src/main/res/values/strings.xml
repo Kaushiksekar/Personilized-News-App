@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="welcome_message">Welcome! Please login through Facebook to get ultimate experience</string>
+    <string name="postive_dialog_button">Proceed</string>
+    <string name="picture_load_error">Picture could not be loaded</string>
+    <string name="home_string">Home</string>
+    <string name="settings_string">Settings</string>
+    <string name="action_invite_friends">Invite Friends</string>
+    <string name="action_starred_articles">Starred Articles</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+    <string name="tab_one">Your Articles</string>
+    <string name="favorites">Favorites</string>
+    <string name="invitation_message">Download our app @ {link}</string>
+    <string name="send_to">Share with...</string>
+    <string name="recent_history">History</string>
+    <string name="preferences">Preferences</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
